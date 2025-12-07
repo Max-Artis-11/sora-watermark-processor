@@ -1,5 +1,0 @@
-[functions.watermark]
-enabled = true
-verify_jwt = false
-runtime = "nodejs18"
-entrypoint = "./functions/watermark/index.js"
