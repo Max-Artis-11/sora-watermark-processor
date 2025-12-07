@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/(main)/index.jsx", "app/(main)/_layout.jsx", "supabase/functions/watermark/index.js"  ]
 }
